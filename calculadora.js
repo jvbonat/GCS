@@ -29,7 +29,6 @@ function raizQuadrada(a) {
 }
 
 console.log("√16 =", raizQuadrada(16));
-
 console.log("2 + 3 =", somar(2, 3));
 console.log("√16 =", raizQuadrada(16));
 console.log("7 - 4 =", subtrair(7, 4));
